@@ -19,7 +19,7 @@
 ## 如何参与维护模板  
 - 学会git以及github的使用。
 
-关于git的使用，可以参考[这个](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。  
+关于git的使用，可以参考[这个](https://github.com/JosanSun/SEUThesis/tree/work/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/02%E7%A1%95%E5%A3%AB/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E5%9D%9B)。  
 关于github的使用，多浏览这个网站就行。  
 
 - 什么样的Pull Request是受欢迎的？
@@ -34,7 +34,7 @@
 - Latex格式修改成本小，格式控制更加简单。缺点是上手成本大，老师评阅问题（只能交PDF，遇到导师需要word，写批注的，直接GG）。  
 
 ### 优秀的论文模板库一览  
-- [NJU Thesis](https://github.com/Haixing-Hu/nju-thesis  
+- [NJU Thesis](https://github.com/Haixing-Hu/nju-thesis)  
 - jyy大神的[山寨LyX毕业论文模板](https://github.com/jiangyy/njuthesis)  
 
 

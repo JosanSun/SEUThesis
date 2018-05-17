@@ -4,7 +4,7 @@
 
 ## 组织方式  
 
-![文档目录树](https://github.com/JosanSun/SEUThesis/tree/master/pic/directory.png  "目录")  
+![文档目录树](https://github.com/JosanSun/SEUThesis/blob/master/pic/directory.png  "目录")  
 文件目录图  
 
 主要针对计算机学院本科生、硕士生和博士生的相关论文要求进行说明，后期可能会加入其他学院的论文格式要求。以硕士生的学术论坛为例，主要分为word版格式和Latex版格式。对于每种格式，分为example，模板，模板说明三个部分，至于这三个部分如何组织建议以[这个](https://github.com/JosanSun/SEUThesis/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/02%E7%A1%95%E5%A3%AB/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E5%9D%9B)为标准
